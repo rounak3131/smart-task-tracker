@@ -1,0 +1,3 @@
+student name =  rounak sharma
+student age = 23
+student cgpa = 12.000000
